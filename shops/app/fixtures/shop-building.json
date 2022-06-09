@@ -1,0 +1,23 @@
+[{"model": "app.shopbuilding", "pk": 1, "fields": 
+    {"shop": 1,
+    "city": 2,
+    "street": 3,
+    "building": "10",
+    "time_open": "10:00:00",
+    "time_close": "21:00:00"}}, 
+    {"model": "app.shopbuilding", "pk": 2, "fields":  
+        {"shop": 2,
+        "city": 1,
+        "street": 3,
+        "building": "1",
+        "time_open": "05:00:00",
+        "time_close": "19:00:00"}},
+    {"model": "app.shopbuilding", "pk": 3, "fields": 
+        {"shop": 3,
+            "city": 2,
+            "street": 2,
+            "building": "101",
+            "time_open": "09:00:00",
+            "time_close": "23:00:00"}}
+]
+ 

@@ -1,0 +1,5 @@
+[{"model": "app.city", "pk": 1, "fields": {"name": "Москва"}}, 
+{"model": "app.city", "pk": 2, "fields": {"name": "Омск"}},
+{"model": "app.city", "pk": 3, "fields": {"name": "Воронеж"}},
+{"model": "app.city", "pk": 4, "fields": {"name": "Краснодар"}},
+{"model": "app.city", "pk": 5, "fields": {"name": "Красноярск"}}]

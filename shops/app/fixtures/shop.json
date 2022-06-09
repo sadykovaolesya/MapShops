@@ -1,0 +1,5 @@
+[{"model": "app.shop", "pk": 1, "fields": {"name": "DNS"}}, 
+    {"model": "app.shop", "pk": 2, "fields": {"name": "Магнит"}},
+    {"model": "app.shop", "pk": 3, "fields": {"name": "Икея"}},
+    {"model": "app.shop", "pk": 4, "fields": {"name": "Эльдорадо"}},
+    {"model": "app.shop", "pk": 5, "fields": {"name": "Ашан"}}]

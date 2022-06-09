@@ -1,0 +1,5 @@
+[{"model": "app.street", "pk": 1, "fields": {"name": "Мирная", "city":[1, 4, 5]}}, 
+    {"model": "app.street", "pk": 2, "fields": {"name": "Звездная", "city":[2, 3, 5] }},
+    {"model": "app.street", "pk": 3, "fields": {"name": "Рыночная", "city":[1, 3, 4] }}
+]
+  
