@@ -2,8 +2,9 @@
 API поиска магазинов по городам и улицам 
 
 ### Стек
-Django REST framewor
-Docker
+#Django REST framewor
+
+#Docker
 
 ### Порядок запуска приложения
 
